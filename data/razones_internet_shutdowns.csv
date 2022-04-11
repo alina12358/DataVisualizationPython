@@ -1,0 +1,13 @@
+,official_just,actual_cause,total
+0,Fake News/ Hate Speech,Communal Violence,12
+1,Fake News/ Hate Speech,Elections,3
+3,Fake News/ Hate Speech,Political Instability,4
+4,Fake News/ Hate Speech,Protest,10
+11,National Security,Elections,1
+14,National Security,Political Instability,11
+15,National Security,Protest,2
+24,Precautionary measure,Political Instability,67
+27,Public Safety,Communal Violence,9
+28,Public Safety,Elections,1
+31,Public Safety,Political Instability,9
+32,Public Safety,Protest,29
